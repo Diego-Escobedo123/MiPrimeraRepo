@@ -1,8 +1,7 @@
 # Hola a todos
 
 x = 5
-y = 20
- result = x + y
+result = x + 10
 
 print("El resultado es ", result)
-# El resultado debe ser 25
+# El resultado debe ser 15
