@@ -1,6 +1,6 @@
 # Hello
 
 # Agregando otro commit
-x = 10
 y = 5
 result = x + 5
+print("Hello World")
