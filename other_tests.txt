@@ -1,0 +1,8 @@
+# Hola a todos
+
+x = 5
+y = 20
+ result = x + y
+
+print("El resultado es ", result)
+# El resultado debe ser 25
